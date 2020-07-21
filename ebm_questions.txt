@@ -1,0 +1,456 @@
+Does neonatal circumcision decrease morbidity?
+Which imaging modality is best for suspected stroke?
+What is the best strategy for impaired glucose tolerance in nonpregnant adults?
+What is the most effective and safe malaria prophylaxis during pregnancy?
+Does screening reduce lung cancer mortality?
+What are the most effective nonpharmacologic therapies for irritable bowel syndrome?
+What is the recommended approach to asymptomatic patients who develop a reactive PPD?
+What is the best duration of steroid therapy for contact dermatitis rhus?
+What is the best surveillance for hepatocellular carcinoma in chronic carriers of hepatitis B?
+Are major bleeding events from falls more likely in patients on warfarin?
+What is the appropriate management for a patient with CIN1 on colposcopy?
+How safe is vaginal birth after cesarean section for the mother and fetus?
+What behavioral interventions are safe and effective for treating obesity?
+How accurate is the use of ECGs in the diagnosis of myocardial infarct?
+What effect do inhaled steroids have on delaying the progression of COPD?
+How reliable are self-measured blood pressures taken at home?
+Should we screen for bacterial vaginosis in those at risk for preterm labor?
+How should we treat chronic daily headache when conservative measures fail?
+Do statins delay onset or slow progression of Alzheimer's dementia?
+Does tight control of blood glucose in pregnant women with diabetes improve neonatal outcomes?
+How effective is prophylactic therapy for gout in people with prior attacks?
+Is neurosurgery referral warranted for small brain aneurysms?
+Do imaging studies aid diagnosis of acute sinusitis?
+How effective is desmopressin for primary nocturnal enuresis?
+How do we decide when a patient with nonmalignant disease is eligible for hospice care?
+Should home apnea monitoring be recommended to prevent SIDS?
+Does stopping a statin increase the short-term risk of a cardiovascular event?
+Does physical therapy improve symptoms of fibromyalgia?
+What are the repercussions of disclosing a medical error?
+Which clinical features and lab findings increase the likelihood of temporal arteritis?
+What is the best way to evaluate an acute traumatic knee injury?
+Are ARBs or ACE inhibitors preferred for nephropathy in diabetes?
+What is the best approach for patients with ASCUS detected on Pap smear?
+Do antibiotics improve outcomes in chronic rhinosinusitis?
+Does warfarin prevent deep venous thrombosis in high-risk patients?
+How should we manage a patient with a positive PPD and prior BCG vaccination?
+How often is coughing the presenting complaint in patients with gastroesophageal reflux disease?
+What is the initial approach to the treatment of shoulder pain?
+What is the most effective treatment for tinea pedis athlete's foot?
+Which vaccinations are indicated after splenectomy?
+Which medications can be split without compromising efficacy and safety?
+How should you further evaluate an adult with a testicular mass?
+Is MRI useful for evaluation of acute low back pain?
+Does microalbuminuria screening in diabetes prevent complications?
+What treatment approach to intrapartum maternal fever has the best fetal outcomes?
+Which patients with suspected exposure to pertussis should receive prophylaxis?
+What is the best portable method of purifying water to prevent infectious disease?
+What is the addiction risk associated with tramadol?
+How should a DEXA scan be used to evaluate bisphosphonate therapy for osteoporosis?
+What environmental modifications improve pediatric asthma?
+How effective are nasal steroids combined with nonsedating antihistamines for seasonal allergic rhinitis?
+Is screening for lead poisoning justified?
+Do nasal decongestants relieve symptoms?
+Do antiarrhythmics prevent sudden death in patients with heart failure?
+What are the most effective ways you can help patients stop smoking?
+Does antepartum perineal massage reduce intrapartum lacerations?
+What is the best way to screen for breast cancer in women with implants?
+What is the best treatment for oral thrush in healthy infants?
+How can you prevent migraines during pregnancy?
+What is the appropriate use of sunscreen for infants and children?
+Does treatment with donepezil improve memory for patients with mild cognitive impairment?
+What is the appropriate evaluation and treatment of children who are "toe walkers"?
+Does furosemide decrease morbidity or mortality for patients with diastolic or systolic dysfunction?
+What interventions reduce the risk of contrast nephropathy for high-risk patients?
+Can counseling prevent or treat postpartum depression?
+What is the best way to manage phantom limb pain?
+What is appropriate fetal surveillance for women with diet-controlled gestational diabetes?
+How should patients with Barrett's esophagus be monitored?
+Does reducing smoking in the home protect children from the effects of second-hand smoke?
+What treatment works best for tennis elbow?
+Does routine amniotomy have a role in normal labor?
+Does psychiatric treatment help patients with intractable chronic pain?
+How does pentoxifylline affect survival of patients with alcoholic hepatitis?
+Does heat or cold work better for acute muscle strain?
+Prophylactic oxytocin: Before or after placental delivery?
+How accurate is stress radionuclide imaging for diagnosis of CAD?
+What causes a low TSH level with a normal free T4 level?
+Who should get hepatitis A vaccination?
+What is the best way to distinguish type 1 and 2 diabetes?
+Do preparticipation clinical exams reduce morbidity and mortality for athletes?
+What are effective medical treatments for adults with acute migraine?
+What are the indications for bariatric surgery?
+How best to manage the patient in term labor whose group B strep status is unknown?
+How often should you follow up on a patient with newly diagnosed hypothyroidism?
+What is the best diagnostic approach to postmenopausal vaginal bleeding in women taking hormone replacement therapy?
+What are the indications for treatment with angiotensin-converting enzyme ACE inhibitors in patients with diabetes?
+What is the value of screening for heart disease with an exercise stress test (EST) in an asymptomatic person?
+What are the most effective treatments for bacterial vaginosis in nonpregnant women?
+Which tool is most useful in diagnosing bipolar disorder in children?
+Does screening for diabetes in at-risk patients improve long-term outcomes?
+What is the best treatment for diabetic neuropathy?
+Do inhaled beta-agonists control cough in URIs or acute bronchitis?
+Does yoga speed healing for patients with low back pain?
+Is methylphenidate useful for treating adolescents with ADHD?
+Should we screen women for hypothyroidism?
+What is the best approach for managing recurrent bacterial vaginosis?
+What are effective treatments for panic disorder?
+Is there a role for theophylline in treating patients with asthma?
+Are any oral iron formulations better tolerated than ferrous sulfate?
+Other than anticoagulation, what is the best therapy for those with atrial fibrillation?
+Are there any known health risks to early introduction of solids to an infant's diet?
+What is the best way to diagnose a suspected rotator cuff tear?
+What is appropriate management of iron deficiency for young children?
+What is the best management for patients who have a TIA while on aspirin therapy?
+What is the best treatment for infants with colic?
+When should patients with asymptomatic aortic stenosis be evaluated for valve replacement?
+Should liver enzymes be checked in a patient taking niacin?
+Should induction of labor be considered in a woman with a macrosomic baby?
+What vitamins and minerals should be given to breastfed and bottle-fed infants?
+For fibromyalgia, which treatments are the most effective?
+When should a chest x-ray be used to evaluate acute-onset productive cough for adults?
+When should you order a Lyme titer?
+What is the best treatment for pertussis?
+What is a reasonable initial approach to the patient with fatigue?
+Is surgery effective for reducing symptoms in adults with obstructive sleep apnea?
+Does daily monitoring of blood glucose predict hemoglobin A1c levels?
+What is the best initial treatment of Parkinson's disease?
+What is the prognosis of postherpetic neuralgia?
+What is the most effective nicotine replacement therapy?
+What findings distinguish acute bacterial sinusitis?
+Is screening urinalysis in children worthwhile?
+Does a high-fiber diet prevent colon cancer in at-risk patients?
+Does stimulant therapy help adult ADHD?
+What medications are effective for treating symptoms of premenstrual syndrome PMS?
+What is the best approach to goiter for euthyroid patients?
+Which lifestyle interventions effectively lower LDL cholesterol?
+What hormonal contraception is most effective for obese women
+Do OTC remedies relieve cough in acute URIs?
+Which complementary therapies can help patients with PMS?
+Can nonantidepressants help treat depression?
+Which diuretics are safe and effective for patients with a sulfa allergy?
+What's the best diagnostic evaluation of night sweats?
+What is the best way to evaluate and manage diarrhea in the febrile infant?
+Is antibiotic prophylaxis effective for recurrent acute otitis media?
+Are antibiotics effective in preventing pneumonia for nursing home patients?
+How useful is ultrasound to evaluate patients with postmenopausal bleeding?
+What is the diagnostic approach to a 1-year-old with chronic cough?
+Can transvaginal ultrasound detect endometrial disease among asymptomatic postmenopausal patients?
+Does surgery for carpal tunnel syndrome improve outcomes?
+What is the best way to identify patients with white-coat hypertension?
+Can we prevent splenic rupture for patients with infectious mononucleosis?
+Does digoxin decrease morbidity for those in sinus rhythm with heart failure?
+What is the evaluation and treatment strategy for Raynaud's phenomenon?
+What is the best way to treat patients with white-coat hypertension?
+Who should receive vertebroplasty?
+What steps can reduce morbidity and mortality caused by hip fractures?
+How can you best diagnose idiopathic normal pressure hydrocephalus?
+Are DMARDs effective for rheumatologic diseases besides rheumatoid arthritis?
+Does bed rest for preeclampsia improve neonatal outcomes?
+What treatments are safe and effective for mild to moderate hypertension in pregnancy?
+How does VTE risk for the patch and vaginal ring compare with oral contraceptives?
+Do acetaminophen and an NSAID combined relieve osteoarthritis pain better than either alone?
+Do antibiotics prevent recurrent UTI in children with anatomic abnormalities?
+Should the varicella vaccine be given to all children to prevent chickenpox?
+Are beta-2-agonists or anticholinergics more effective for treating COPD?
+What is the best test to diagnose urinary tract stones?
+Which patients with gastroesophageal reflux disease (GERD) should have esophagogastroduoudenoscopy (EGD)?
+Is there any benefit to Papanicolaou Pap test screening in women who have had a hysterectomy for benign disease?
+How can you help prevent a recurrence of diverticulitis?
+What is the differential diagnosis of chronic diarrhea in immunocompetent patients?
+What is the dietary treatment for low HDL cholesterol?
+When are antibiotics indicated for acute COPD exacerbations?
+How should you manage a depressed patient unresponsive to an SSRI?
+What are safe sleeping arrangements for infants?
+What blood tests help diagnose celiac disease?
+Do glucosamine and chondroitin worsen blood sugar control in diabetes?
+What best prevents exerciseinduced bronchoconstriction for a child with asthma?
+At what age do patients no longer need colorectal cancer screening?
+What treatments are effective for varicose veins?
+Is osteoporosis screening in postmenopausal women effective?
+Are antibiotics effective for otitis media with effusion?
+Is an outpatient workup safe for patients with a transient ischemic attack?
+What is the best strategy for monitoring the lipid-lowering effects of medical therapy used for the primary prevention of coronary artery disease CAD?
+What are the current treatment and monitoring recommendations for hepatitis C virus HCV?
+What is the best diagnostic approach to paresthesias of the hand?
+How effective are exercise and physical therapy for chronic low back pain?
+What is the most effective management of acute fractures of the base of the fifth metatarsal?
+What are effective strategies for reducing the risk of steroid-induced osteoporosis?
+What are the indications for urodynamic testing in older adults with incontinence?
+What are effective therapies for Clostridium difficile- associated diarrhea?
+What are the causes of hypomagnesemia?
+When and how should you evaluate a child for obstructive sleep apnea?
+Does moderate exercise prevent MI for patients with coronary heart disease?
+Do antibiotics interfere with the efficacy of oral contraceptives?
+Should you treat a symptomatic patient by phone when his child has confirmed strep throat?
+How effective are hypertension self-care interventions?
+What's the best treatment for cradle cap?
+What's the best test for HSV-2 after exposure?
+Which UTI therapies are safe and effective during breastfeeding?
+Which tests are the most useful for diagnosing PID?
+Does regular exercise reduce the pain and stiffness of osteoarthritis?
+What are effective treatments for oppositional defiant behaviors in adolescents?
+Does anticoagulation prevent thrombosis for persons with fractures distal to the hip?
+What is the best treatment for gastroesophageal reflux and vomiting in infants?
+How does tissue adhesive compare with suturing for superficial lacerations?
+What is the best treatment for chronic constipation in the elderly?
+How should you document a patient's refusal to undergo a necessary intervention?
+Are steroid injections effective for tenosynovitis of the hand?
+What is the risk of bowel strangulation in an adult with an untreated inguinal hernia?
+What does the evidence tell us about treating very-high-risk patients to an LDL <70 mg/dL?
+Which strategies work best to prevent obesity in adults?
+In menopausal women, does fatigue indicate disease?
+Are overweight children more likely to be overweight adults?
+How useful is a physical exam in diagnosing testicular torsion?
+What treatments prevent miscarriage after recurrent pregnancy loss?
+Does breastfeeding protect against viral GI infections in children <2 years old?
+How should we follow athletes after a concussion?
+What is the best treatment for nocturnal enuresis in children?
+What is the best way to manage GERD symptoms in the elderly?
+What is the best way to treat tinea cruris?
+When should COX-2 selective NSAIDs be used for osteoarthritis and rheumatoid arthritis?
+Are oral agents effective for the treatment of verruca vulgaris?
+What is the best way to diagnose polycystic ovarian syndrome?
+Do inhaled steroids increase the risk of osteoporosis?
+Do topical antibiotics improve wound healing?
+What is the preferred treatment for a child with mild persistent asthma?
+What evaluation is best for an isolated, enlarged cervical lymph node?
+Angiotensin blockade for diabetes: Monitor microalbuminuria?
+What is the best treatment for hypertension in African Americans?
+Should we screen adults for asymptomatic microhematuria?
+Do antipyretics prolong febrile illness?
+Is folate supplementation indicated for patients with CAD?
+Are inhalers with spacers better than nebulizers for children with asthma?
+What is the best approach to a solitary pulmonary nodule identified by chest x-ray?
+Is exercise treadmill testing useful for detecting heart disease in women?
+Does treatment of acne with Retin A and tetracycline cause adverse effects?
+Which blood tests are most helpful in evaluating pelvic inflammatory disease?
+How effective are leukotriene inhibitors for asthma in children?
+What is the best therapy for constipation in infants?
+What is the diagnostic approach to a patient with leg cramps?
+Is yearly chest x-ray screening helpful in reducing mortality for smokers?
+What are the relative risks and benefits of progestin-only contraceptives?
+Are breast self-exams or clinical exams effective for screening breast cancer?
+Does early detection of suspected atherosclerotic renovascular hypertension change outcomes?
+What is the initial work-up in the diagnosis of hypertension?
+When should travelers begin malaria prophylaxis?
+Do COX-2 inhibitors worsen renal function?
+When should a child with an undescended testis be referred to a urologist?
+Menstrual disturbances in perimenopausal women: What's best?
+Do patients at high risk of Alzheimer's disease benefit from early treatment?
+Sleep apnea in adults: How accurate is clinical prediction?
+What treatments work best for constipation in children?
+How should you manage an overweight breastfed infant?
+When should you treat scabies empirically?
+What measures relieve postherpetic neuralgia?
+Does group prenatal care improve pregnancy outcomes?
+Which factors increase the risk of an infant becoming an overweight child?
+When should we stop mammography screening for breast cancer in elderly women?
+What is the best diagnostic approach to alopecia in women?
+Which postmenopausal women should be offered combined HRT?
+What is the appropriate diagnostic evaluation of fibroids?
+Should a nylon brush be used for Pap smears from pregnant women?
+History, exam, and labs: Is one enough to diagnose acute adult appendicitis?
+What is the recommended evaluation and treatment for elevated serum prolactin?
+Which healthy adults should take aspirin?
+Does a low-salt diet reduce morbidity and mortality in congestive heart failure?
+How much does smoking cessation cut CHD risk?
+What is the best workup for hypocalcemia?
+What is the best treatment for Osgood-Schlatter disease?
+Should you treat carriers of pharyngeal group A strep?
+Alcoholic liver disease: Is acetaminophen safe?
+How should you treat Candida vaginitis in patients on antibiotics?
+When should you admit a patient with suspected CAP?
+What's the best drug treatment for premature ejaculation?
+Is osteopathic manipulation effective for headaches?
+What is the differential diagnosis of chronic leg edema in primary care?
+What are the causes of elevated TSH in a newborn?
+How does colonoscopy compare with fecal occult blood testing as a screening tool for colon cancer?
+How can we best treat and monitor VTE during pregnancy?
+When is neuroimaging warranted for headache?
+What are the best therapies for acute migraine in pregnancy?
+Which late-stage Alzheimer's patients should be referred for hospice care?
+How can I improve patient adherence to prescribed medication?
+What medications are safe and effective for heartburn during pregnancy?
+Which asthma patients should get the pneumococcal vaccine?
+Should you use antibiotics to treat acute otitis media in children?
+What are the best prophylactic drugs for migraine?
+When should you consider implanted nerve stimulators for lower back pain?
+What's the best way to motivate patients to exercise?
+Should you test or treat partners of patients with gonorrhea, chlamydia, or trichomoniasis?
+Do insulin-sensitizing drugs increase ovulation rates for women with PCOS?
+What is the most effective treatment for ADHD in children?
+What are effective treatments for oppositional and defiant behaviors in preadolescents?
+What's the best treatment for pyogenic granuloma?
+Which treatments work best for hemorrhoids?
+How effective are dietary interventions in lowering lipids in adults with dyslipidemia?
+What GI stress ulcer prophylaxis should we provide hospitalized patients?
+What is the most effective treatment for acute low back pain?
+Is prostate-specific antigen PSA screening indicated for any subgroup of men?
+What is the best treatment for impacted cerumen?
+Does increasing methylphenidate dose aid symptom control in ADHD?
+Are tympanostomy tubes indicated for recurrent acute otitis media?
+How should we manage infants at risk for group B streptococcal disease?
+Are any alternative therapies effective in treating asthma?
+Is pneumococcal vaccine effective in nursing home patients?
+Does acyclovir help herpes simplex virus cold sores if treatment is delayed?
+How should thyroid replacement be initiated?
+Is nedocromil effective in preventing asthmatic attacks in patients with asthma?
+How effective is gastric bypass for weight loss?
+For knee pain, how predictive is physical examination for meniscal injury?
+Do steroid injections help with osteoarthritis of the knee?
+Is therapy based on endoscopy results better than empiric therapy for dyspepsia?
+Do TZDs increase the risk of heart failure for patients with diabetes?
+What physical exam techniques are useful to detect malingering?
+What is the role of tacrolimus and pimecrolimus in atopic dermatitis?
+For those intolerant to ACE inhibitors and ARBs, what is the best therapy for reducing the risk of diabetic nephropathy?
+Should we recommend universal neonatal hearing screening?
+What is the best management for patients with evidence of asymptomatic ischemia on exercise stress testing?
+Do testosterone injections increase libido for elderly hypogonadal patients?
+How useful are autoantibodies in diagnosing thyroid disorders?
+Which lab tests are best when you suspect hypothyroidism?
+What drugs are best for bipolar depression?
+Can recombinant growth hormone effectively treat idiopathic short stature?
+Is there a well-tested tool to detect drug-seeking behaviors in chronic pain patients?
+Should we identify and treat hyperlipidemia in the advanced elderly?
+What are the most practical primary care screens for post-traumatic stress disorder?
+Which treatments are effective for cervical radiculopathy?
+Should we screen for ovarian cancer?
+Are nasal steroid sprays effective for otitis media with effusion?
+Does glucosamine relieve arthritis joint pain?
+How should patients with mitral regurgitation be followed?
+What is the best test to detect herpes in skin lesions?
+When are empiric antibiotics appropriate for urinary tract infection symptoms?
+How long is expectant management safe in first-trimester miscarriage?
+Should we treat elevated cholesterol in elderly patients?
+What is the most effective diagnostic evaluation of streptococcal pharyngitis?
+What is the most effective way for relieving constipation in children aged >1 year?
+First- or second-generation antihistamines: which are more effective at controlling pruritus?
+What is the best approach to the evaluation and treatment of chronic cough?
+Does ambulatory blood pressure monitoring aid in the management of patients with hypertension?
+What is the target for low-density lipoprotein cholesterol in patients with heart disease?
+Is the ThinPrep better than conventional Pap smear at detecting cervical cancer?
+What is the best oral antifungal medication for tinea capitis?
+Should people with a first-degree relative who died from subarachnoid hemorrhage be screened for aneurysms?
+What are effective medication combinations for dyslipidemia?
+How effective are lifestyle changes for controlling hypertension?
+What precautions should we use with statins for women of childbearing age?
+When should we screen children for hyperlipidemia?
+What are contraindications to IUDs?
+Which nondrug alternatives can help with insomnia?
+What regimens eradicate Heliobacter pylori?
+Which infants need lumbar puncture for suspected sepsis?
+Does a knee brace decrease recurrent ACL injuries?
+What medication best prevents migraine in children?
+What is the best approach to prevention and treatment of osteoporosis?
+Does tamoxifen prevent breast cancer?
+Do calcium supplements prevent postmenopausal osteoporotic fractures?
+In patients with a previous CVA, do antioxidants protect against subsequent stroke?
+What interventions can help patients stop using chewing tobacco?
+Do antioxidants vitamins C, E improve outcomes in patients with coronary artery disease?
+What are the best treatments for herpes labialis?
+What is the best way to evaluate secondary infertility?
+Which oral antifungal is best for toenail onychomycosis?
+Do ACE inhibitors prevent nephropathy in type 2 diabetes without proteinuria?
+When is it OK for children to start drinking fruit juice?
+What is the role of herpes virus serology in sexually transmitted disease screening?
+Which interventions are best for alleviating nipple pain in nursing mothers?
+Does birth weight predict childhood obesity?
+What is the best test for peripheral vascular disease?
+What are the indications for evaluating a patient with cough for pertussis?
+Can type 2 diabetes be prevented through diet and exercise?
+Are liver function tests required for patients taking isoniazid for latent TB?
+What is the clinical workup for failure to thrive?
+What's the most effective treatment for giardiasis?
+How soon should serum potassium levels be monitored for patients started on diuretics?
+What is the best treatment for plantar fasciitis?
+Does cranberry juice prevent or treat urinary tract infection?
+What are the treatment options for SSRI-related sexual dysfunction?
+Do beta-blockers worsen respiratory status for patients with COPD?
+What is angular cheilitis and how is it treated?
+Is DEET safe for children?
+How accurate is an MRI at diagnosing injured knee ligaments?
+Do endovascular filters prevent PE as effectively as anticoagulants in patients with DVT?
+What's the most practical way to rule out adrenal insufficiency?
+Do hyaluronic acid injections relieve OA knee pain?
+When should you suspect community-acquired MRSA? How should you treat it?
+Do nonmedicated topicals relieve childhood eczema?
+Heat or ice for acute ankle sprain?
+What's the best strategy for bipolar disorder during pregnancy?
+Is guaifenesin safe during pregnancy?
+Is combining ACE inhibitors and ARBs helpful or harmful?
+When should we treat isolated high triglycerides?
+Does lowering diastolic BP to less than 90 mm Hg decrease cardiovascular risk?
+Do statins reduce the risk of stroke?
+Does combining aspirin and warfarin decrease the risk of stroke for patients with nonvalvular atrial fibrillation?
+What is the best therapy for superficial thrombophlebitis?
+What's the best treatment for CIN 2 or 3?
+What is the recommended workup for a man with a first UTI?
+What is the best initial treatment for orbital cellulitis in children?
+What's the best way to screen for anxiety and panic disorders?
+What is the best way to diagnose menopause?
+Does a low-fat diet help prevent breast cancer?
+What's the best way to manage athletes with amenorrhea?
+What is the best way to manage benign paroxysmal positional vertigo?
+What is the best hypnotic for use in the elderly?
+Do statins cause myopathy?
+Should you use steroids to treat infectious mononucleosis?
+What screening tests should you use to evaluate a man with low testosterone?
+How beneficial are thiazolidinediones for diabetes mellitus?
+What is the prognosis for acute low back pain?
+What levels of cholesterol should be treated for primary prevention?
+What's the best way to treat Achilles tendonopathy?
+How should you evaluate elevated calcium in an asymptomatic patient?
+Is there much risk in using fluoroquinolones in children?
+How much can exercise raise creatine kinase level-and does it matter?
+Do any folk remedies or herbals help induce labor?
+When should acute nonvenereal conjunctivitis be treated with topical antibiotics?
+What is the most effective treatment for external genital warts?
+What are the indications for tonsillectomy in children?
+How do you evaluate macrocytosis without anemia?
+Do allergy shots help seasonal allergies more than antihistamines and nasal steroids?
+What common substances can cause false positives on urine screens for drugs of abuse?
+What is the best regimen for newly diagnosed hypertension?
+How effective are pharmacologic agents for alcoholism?
+Can patients with steatohepatitis take statins?
+How useful is high-sensitivity CRP as a risk factor for coronary artery disease?
+How should we follow up a positive screen for anemia in a 1-year old?
+What is the best treatment for analgesic rebound headaches?
+Should patients with acute DVT limit activity?
+Does warfarin prevent venous thromboembolic events in aPL-positive patients?
+How should we treat major depression combined with anxiety?
+What other STI testing should we do for a patient with chlamydia?
+How do we evaluate a marginally low B12 level?
+What is the best way to evaluate acute diarrhea?
+What's the best treatment for sebaceous cysts?
+Are there big differences among beta-blockers in treating essential hypertension?
+What is the best treatment for mild to moderate acne?
+What are the risks and benefits of elective induction for uncomplicated term pregnancies?
+What is the risk of adverse outcomes in a woman who develops mild hypertension from OCs?
+What is the best medical therapy for new-onset type 2 diabetes?
+What is the role of combination therapy insulin plus oral medication in type 2 diabetes?
+Is training patients in self-examination an effective way to screen for melanoma?
+What could be behind your elderly patient's subjective memory complaints?
+Which drugs are most effective for moderate to severe depression in adolescents?
+Which drugs are safest for moderate to severe depression in adolescents?
+Should you evaluate for CAD in seniors with premature ventricular contractions?
+What is the most effective beta-blocker for heart failure?
+Which technique for removing nevi is least scarring?
+Can infants/toddlers get enough fluoride through brushing?
+Does the age you introduce food to an infant affect allergies later?
+Should we use SSRIs to treat adolescents with depression?
+What's the best treatment for gestational diabetes?
+Should we use appetite stimulants for malnourished elderly patients?
+What is the best macrolide for atypical pneumonia?
+What test is the best for diagnosing infectious mononucleosis?
+What nonpharmacological treatments are effective against common nongenital warts?
+What are appropriate screening tests for infants and children?
+Should patients receive 23-valent pneumococcal vaccination more than once?
+What is the most beneficial diet for patients with diverticulosis?
+How accurate is the clinical diagnosis of pneumonia?
+Who should have colposcopy?
+What's the best test for renal artery stenosis in patients with refractory hypertension?
+What are the indications for meningococcal vaccination?
+What is the role of prokinetic agents for constipation?
+Do abnormal fetal kick counts predict intrauterine death in average-risk pregnancies?
+Can you differentiate bacterial from viral pediatric infections based on the CBC?
